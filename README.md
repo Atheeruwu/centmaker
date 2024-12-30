@@ -1,4 +1,4 @@
-
+DEPLOYED:https://atheeruwu.github.io/centmaker/
 1. **Input Validation**:  
    ```javascript
    if (!(Number.isFinite(+io.input)) || io.input.indexOf('-') != -1) io.output = `<p class="app__output">This is incorrect value</p>`;
